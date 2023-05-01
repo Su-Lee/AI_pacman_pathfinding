@@ -121,4 +121,4 @@ optional arguments:
   --save SAVE           save output to image file - default not saved
 ```
 
-(https://www.csie.ntu.edu.tw/~stchen/teaching/fai23/hw2/hw2.html)
+(https://www.csie.ntu.edu.tw/~stchen/teaching/fai23/hw1/hw1.html)
