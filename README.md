@@ -1,4 +1,5 @@
-# HW1: Search
+# Search
+Pacman pathfinding, BFS, A*, Heuristic
 
 ## Part 1: Finding a single dot
 Consider the problem of finding the shortest path from a given start state while eating one or more dots or "food pellets." The image at the top of this page illustrates the simple scenario of a single dot, which in this case can be viewed as the unique goal state. The maze layout will be given to you in a simple text format, where '%' stands for walls, 'P' for the starting position, and '.' for the dot(s) (see sample maze file). All step costs are equal to one.
