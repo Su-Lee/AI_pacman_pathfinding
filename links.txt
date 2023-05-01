@@ -1,0 +1,14 @@
+ https://github.com/hv14/CS440-MP1
+ https://gist.github.com/jorgejr568/1f0c6d7dd55471351ec4774c2f83f304
+ https://github.com/ma-shamshiri/Pacman-Game/blob/master/Pacman/search.py
+ https://github.com/MrCaiting/MazeGame
+ https://github.com/adityavgupta/ECE448-CS440/blob/master/mp1/search.py
+ https://github.com/doofusdavid/cs440-A1-Uninformed-Search
+ https://github.com/rahulsk2/CS440/blob/master/CS440%20MP1/search.py
+ https://github.com/stardream96/ECE448-AI-MP1/blob/master/search.py
+ https://github.com/Mukhilm/cs440/blob/master/Mp1/search.py
+ https://github.com/Rshcaroline/FDU-Artificial-Intelligence/tree/master/Projects/PJ1%20-%20PacMan%20Search/code
+ https://github.com/jacobic/Pac-ManAI/blob/master/search.py
+ https://github.com/apsusanto/PacmanSearchAI/blob/master/searchAgents.py
+ https://rshcaroline.github.io/research/resources/pacman-report.pdf
+ 
