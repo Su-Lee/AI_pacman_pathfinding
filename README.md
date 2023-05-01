@@ -49,15 +49,20 @@ Sometimes, even with A* and a good heuristic, finding the optimal path through a
 Specifically, your function must solve this maze in less than 1 minute. Assuming that it finishes in that amount of time, grading will be based only on the length of your returned path.
 
 
-## Code Skeleton
-maze.py
+## Code Skeleton:
+### maze.py
 
 getStart() :- Returns a tuple of the starting position, (row, col)
+
 getObjectives() :- Returns a list of tuples that correspond to the dot positions, [(row1, col1), (row2, col2)]
+
 isValidMove(row, col) :- Returns the boolean True if the (row, col) position is valid. Returns False otherwise.
+
 isValidPath(path) :- Run some sanity checks for given path. Returns str "Valid" if the path is valid. Returns all sorts of errors otherwise.
+
 getNeighbors(row, col) :- Given a position, returns the list of tuples that correspond to valid neighbor positions. This will return at most 4 neighbors, but may return less.
-search.py
+
+### search.py
 
 There are 5 methods to implement in this file, namely bfs(maze), astar(maze), astar_corner(maze),, astar_multi(maze), and fast(maze). The method astar_corner is for part 2, astar_multi is for part 3, fast is for part 4, and the other methods are for part 1. Each of these functions takes in a maze instance, and should return the path taken (as a list of tuples). The path should include both the starting state and the ending state. The maze instance provided will already be instantiated, and the above methods will be accessible.
 
